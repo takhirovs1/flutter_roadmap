@@ -53,7 +53,7 @@ No links were invented; third-party packages link to **pub.dev** package pages o
 ### Remaining TODOs
 
 - [ ] Restore or regenerate **`images/FlutterRoadmap.png`** / **`.svg`** if this fork keeps a visual diagram (paths referenced from `README.md` as optional).
-- [ ] Align repository remote branding (`mcodevs/flutter_roadmap` vs legacy references) if README badges or upstream attribution should change.
+- [ ] Align forks/upstreams if this roadmap is mirrored; canonical GitHub repo is **`takhirovs1/flutter_roadmap`**.
 - [ ] Optionally add **`AI_TOOLS.md`** / **`RESOURCES.md`** only if you want shorter standalone spin-outs—the canonical source remains **`FlutterRoadmap.md`**.
 
 ---

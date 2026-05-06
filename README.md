@@ -2,7 +2,7 @@
 
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter)
 
-Curated, practical roadmap for growing from **beginner** to **production-ready Flutter engineer**. Primary repo: [github.com/mcodevs/flutter_roadmap](https://github.com/mcodevs/flutter_roadmap). Covers collaboration on **GitHub or GitLab**, CI including **GitLab CI/CD**, and AI-assisted workflows (**Claude**, Cursor, Copilot, MCP) with safety guardrails.
+Curated, practical roadmap for growing from **beginner** to **production-ready Flutter engineer**. Primary repo: [github.com/takhirovs1/flutter_roadmap](https://github.com/takhirovs1/flutter_roadmap). Covers collaboration on **GitHub or GitLab**, CI including **GitLab CI/CD**, and AI-assisted workflows (**Claude**, Cursor, Copilot, MCP) with safety guardrails.
 
 ## Authorship
 
